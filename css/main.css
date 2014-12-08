@@ -1,0 +1,63 @@
+body.index {
+    background-image: url("http://th04.deviantart.net/fs70/PRE/f/2012/223/6/a/linkin_park_living_things_wallpaper_by_jyakudesigns-d5apf4a.png");
+	background-size: 100%;
+	background-repeat: none;
+}
+
+body.about {
+    background-image: url("http://www.iriwv.com/wp/assets/red-background-and-photo-high-resolution-download.jpg");
+    background-size: 100%;
+    background-repeat: none;
+}
+
+ul {
+    margin: 0;
+    padding: 0;
+    color: grey;
+}
+
+li {
+    display: inline;
+    padding: 25px;
+    padding-top: 
+}
+
+.header {
+	   /*Opacity start*/
+    -ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+    filter: alpha(opacity=50);
+    -moz-opacity: 0.50;
+    -khtml-opacity: 0.5;
+    opacity: 0.5;
+    /*Opacity end*/
+	text-align: right;
+	font-family: 'Oswald', sans-serif;
+	height:50px;
+    background: #000;
+    border:1px solid #CCC;
+    width: 0px auto;
+    margin:0px auto;
+    border-style: none;
+    padding-top: 15px;
+    font-size: 22px;
+}
+
+/* unvisited link */
+a:link {
+    color: #BFBFBF;
+}
+
+/* visited link */
+a:visited {
+	color: #BFBFBF;
+}
+
+/* mouse over link */
+a:hover {
+    color: #fff;
+}
+
+/* selected link */
+a:active {
+    color: #926ACC;
+}
